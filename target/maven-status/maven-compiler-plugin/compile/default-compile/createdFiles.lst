@@ -1,0 +1,6 @@
+com\personal\portafolo\PortafoloApplication$1.class
+com\personal\portafolo\PortafoloApplication.class
+com\personal\portafolo\model\User.class
+com\personal\portafolo\service\ServiceUser.class
+com\personal\portafolo\repository\RepositoryUser.class
+com\personal\portafolo\controller\ControllerUser.class
